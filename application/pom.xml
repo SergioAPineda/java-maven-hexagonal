@@ -9,6 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <dependencies>
+    </dependencies>
+
     <artifactId>application</artifactId>
 
     <properties>
